@@ -64,4 +64,8 @@ Displays:
 - Phone & Email  
 - Centered vertical layout  
 
-![Phone Screenshot](businesscard_phone.png)
+<p align="center">
+  <img src="app_output.jpeg" width="250">
+</p>
+
+
