@@ -1,5 +1,5 @@
 package com.example.businesscardapp
-
+ 
 import android.content.res.Configuration
 import android.os.Bundle
 import androidx.activity.ComponentActivity
