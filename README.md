@@ -65,7 +65,7 @@ Displays:
 - Centered vertical layout  
 
 <p align="center">
-  <img src="app_output.jpeg" width="250">
+  <img src="app_output1.jpeg" width="250">
 </p>
 
 
